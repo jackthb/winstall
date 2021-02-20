@@ -20,8 +20,8 @@
   "vscode-insiders": {
     "img": "code-insiders.webp",
     "name": "Visual Studio Code - Insiders",
-    "_id": "Microsoft.VisualStudioCodeInsiders",
-    "path": "Microsoft/VisualStudioCodeInsiders"
+    "_id": "Microsoft.VisualStudioCodeInsiders-User-x64",
+    "path": "Microsoft.VisualStudioCodeInsiders-User-x64"
   },
   "chrome": {
     "img": "chrome.webp",
